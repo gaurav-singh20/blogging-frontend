@@ -33,7 +33,6 @@ function Home() {
         <div className="container">
           <h1 className="logo-font">Blogging</h1>
           <p>A place to share your knowledge.</p>
-          <p>`${import.meta.env.VITE_BACKEND}`</p>
         </div>
       </div>
       <div className="container page">
